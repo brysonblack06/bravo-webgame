@@ -1,0 +1,40 @@
+body {
+  background-color: #f4f6f8;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+.game-board {
+  background: white;
+  border: 2px solid #222;
+  border-radius: 12px;
+  padding: 25px;
+  max-width: 700px;
+  margin: auto;
+}
+
+.box {
+  width: 120px;
+  height: 90px;
+  margin: 10px;
+  font-size: 18px;
+}
+
+#message {
+  font-weight: bold;
+  color: #333;
+}
+
+footer {
+  margin-top: 40px;
+}
+
+.game-box{
+    transition: transform .2s ease;
+}
+
+.game-box:hover{
+    transform: scale(1.08);
+}
