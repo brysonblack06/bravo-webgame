@@ -114,7 +114,7 @@ This event listens for a click on the Start Game button and calls the `startGame
 
 ## Screenshot
 
-![Treasure Hunt Adventure](images/game-screenshot.png)
+![Treasure Hunt Adventure](screenshot.png)
 
 ---
 
@@ -122,13 +122,13 @@ This event listens for a click on the Start Game button and calls the `startGame
 
 Play the game here:
 
-https://YOUR-USERNAME.github.io/bravo-webgame/
+https://brysonblack06.github.io/bravo-webgame/
 
 ---
 
 ## GitHub Repository
 
-https://github.com/YOUR-USERNAME/bravo-webgame
+https://github.com/brysonblack06/bravo-webgame
 
 ---
 
